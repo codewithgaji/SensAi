@@ -18,13 +18,7 @@ SensAi has the potential to grow into a full-scale mental wellness platform with
 - **Subscription Plans:** Personalized mood reports and professional guidance.  
 - **Enterprise Integration:** Partnering with mental health organizations, therapists, and wellness apps.  
 
-## 🚀 Scaling Up  
-We can scale SensAi by:  
-- Developing a mobile app for iOS and Android.  
-- Integrating voice-based journaling with speech-to-text AI.  
-- Enhancing sentiment analysis using deep learning.  
-- Expanding language support for a global audience.  
-- Adding social features where users can anonymously share and receive community-driven support.  
+
 
 ## 🔥 Future Releases  
 We plan to roll out new features, including:  
