@@ -12,6 +12,12 @@ In today's fast-paced world, mental well-being is often overlooked. SensAi provi
 
 SensAi solves these problems by providing AI-generated mood analysis and motivational support, helping users stay mentally strong and emotionally aware.  
 
+## 💼 Business Aspect  
+SensAi has the potential to grow into a full-scale mental wellness platform with:  
+- **Freemium Model:** Free access to basic journaling with premium features like deep mood insights, analytics, and AI-powered coaching.  
+- **Subscription Plans:** Personalized mood reports and professional guidance.  
+- **Enterprise Integration:** Partnering with mental health organizations, therapists, and wellness apps.  
+
 
 ## 🚀 Scaling Up  
 We can scale SensAi by:  
