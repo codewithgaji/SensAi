@@ -40,8 +40,6 @@ SensAi is proudly developed by **Team Prime Dev**, a group of passionate develop
 Stay tuned for more updates! 🚀✨  
 
 ---
-
-
  ### 📌 Contributing  
 Want to contribute? Fork the repo and submit a pull request!  
 
