@@ -41,13 +41,5 @@ Stay tuned for more updates! 🚀✨
 
 ---
 
-### 📌 Contributing  
-Want to contribute? Fork the repo and submit a pull request!  
-
-### 📩 Contact  
-For inquiries, collaborations, or suggestions, reach out to us!  
-
----
-Made with ❤️ by Team Prime Dev 
 
  
