@@ -34,18 +34,3 @@ We plan to roll out new features, including:
 - **Therapist Integration** for professional guidance.  
 - **Gamification** elements like streaks and rewards for consistent journaling.  
 
-## 👥 Created by Team Prime Dev  
-SensAi is proudly developed by **Team Prime Dev**, a group of passionate developers dedicated to creating impactful AI-driven solutions.  
-
-Stay tuned for more updates! 🚀✨  
-
----
- ### 📌 Contributing  
-Want to contribute? Fork the repo and submit a pull request!  
-
-### 📩 Contact  
-For inquiries, collaborations, or suggestions, reach out to us!  
-
----
-Made with ❤️ by Team Prime Dev 
-
